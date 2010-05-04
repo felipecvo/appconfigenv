@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppConfigEnv", "AppConfigEnv\AppConfigEnv.csproj", "{7FB1A3E5-DD64-4F2F-96FC-4CBDC595D8AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppConfigEnv.Console", "AppConfigEnv.Console\AppConfigEnv.Console.csproj", "{7BA4E5E1-4DD7-4A36-8C32-DE3427074DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FB1A3E5-DD64-4F2F-96FC-4CBDC595D8AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB1A3E5-DD64-4F2F-96FC-4CBDC595D8AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB1A3E5-DD64-4F2F-96FC-4CBDC595D8AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB1A3E5-DD64-4F2F-96FC-4CBDC595D8AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BA4E5E1-4DD7-4A36-8C32-DE3427074DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA4E5E1-4DD7-4A36-8C32-DE3427074DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA4E5E1-4DD7-4A36-8C32-DE3427074DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA4E5E1-4DD7-4A36-8C32-DE3427074DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
